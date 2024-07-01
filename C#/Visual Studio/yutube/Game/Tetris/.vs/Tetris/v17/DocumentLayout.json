@@ -55,7 +55,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Tetris",
+              "Title": "Tetris.csproj",
               "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Tetris.csproj",
               "RelativeDocumentMoniker": "Tetris\\Tetris.csproj",
               "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Tetris.csproj",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "Tetris\\MainWindow.xaml.cs",
               "ViewState": "AQIAAH0AAAAAAAAAAAAuwJMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:20:06.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:20:06.47Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\MainWindow.xaml",
               "RelativeToolTip": "Tetris\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-28T06:21:00.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:21:00.664Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "Tetris\\GameState.cs",
               "ViewState": "AQIAAKMAAAAAAAAAAAAQwKoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:19:34.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:19:34.297Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "Tetris\\BlockQueue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:18:18.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:18:18.402Z"
             },
             {
               "$type": "Document",
@@ -171,8 +167,7 @@
               "RelativeToolTip": "Tetris\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T06:18:04.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T06:18:04.177Z"
             }
           ]
         }
