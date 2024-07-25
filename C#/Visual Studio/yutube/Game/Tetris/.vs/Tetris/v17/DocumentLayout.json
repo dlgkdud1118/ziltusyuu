@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\tetris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\blockqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\assets\\background.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\assets\\background.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\assets\\block-empty.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\assets\\block-empty.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|c:\\users\\3030897\\desktop\\dlgkdud\\ziltusou\\ziltusyuu\\c#\\visual studio\\yutube\\game\\tetris\\tetris\\assets\\tilepurple.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{C8461A4E-F38D-4BAA-8340-CBC62A519842}|Tetris\\Tetris.csproj|solutionrelative:tetris\\assets\\tilepurple.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tetris.csproj",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeDocumentMoniker": "Tetris\\Tetris.csproj",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Tetris.csproj",
+              "RelativeToolTip": "Tetris\\Tetris.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T04:41:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAuwJMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:20:06.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Tetris\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\MainWindow.xaml",
+              "RelativeToolTip": "Tetris\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-28T06:21:00.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TilePurple.png",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Assets\\TilePurple.png",
+              "RelativeDocumentMoniker": "Tetris\\Assets\\TilePurple.png",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Assets\\TilePurple.png",
+              "RelativeToolTip": "Tetris\\Assets\\TilePurple.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-28T06:20:49.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Block-Empty.png",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Assets\\Block-Empty.png",
+              "RelativeDocumentMoniker": "Tetris\\Assets\\Block-Empty.png",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Assets\\Block-Empty.png",
+              "RelativeToolTip": "Tetris\\Assets\\Block-Empty.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-28T06:20:44.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Background.png",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Assets\\Background.png",
+              "RelativeDocumentMoniker": "Tetris\\Assets\\Background.png",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Assets\\Background.png",
+              "RelativeToolTip": "Tetris\\Assets\\Background.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-28T06:20:40.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\GameState.cs",
+              "RelativeDocumentMoniker": "Tetris\\GameState.cs",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\GameState.cs",
+              "RelativeToolTip": "Tetris\\GameState.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAQwKoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:19:34.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlockQueue.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeDocumentMoniker": "Tetris\\BlockQueue.cs",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\BlockQueue.cs",
+              "RelativeToolTip": "Tetris\\BlockQueue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:18:18.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Block.cs",
+              "RelativeDocumentMoniker": "Tetris\\Block.cs",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\Block.cs",
+              "RelativeToolTip": "Tetris\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:18:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Tetris\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\3030897\\Desktop\\dlgkdud\\ziltusou\\ziltusyuu\\C#\\Visual Studio\\yutube\\Game\\Tetris\\Tetris\\AssemblyInfo.cs",
+              "RelativeToolTip": "Tetris\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T06:18:04.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
